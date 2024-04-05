@@ -2,3 +2,5 @@ Mal31xKH004.unique.recombinant.SNP.filter.rmHet.vcf
 MKK2835xNHP1337.unique.recombinant.SNP.filter.rmHet.vcf
 NF54.mcherryxNHP4026.GFP.Unique.rmHet_rename_09.27.2023.vcf
 NF54xNHP4026.201.unique.recombianant.rmHet_rename_09.27.2023.vcf
+
+Reference genome: 3D7 (PlasmoDB-32)
